@@ -1,0 +1,1 @@
+<h1>Aplikasi Web Absensi Sekolah</h1>
